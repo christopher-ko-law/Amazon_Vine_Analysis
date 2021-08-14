@@ -12,10 +12,10 @@ The analysis will focus on
 Dataset Analyzed: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Major_Appliances_v1_00.tsv.gz
 
 ## Results
-The results for paid reviews are as follows:
+The results for paid reviews are as follows:<br>
 ![paid](images/paid_reviews.png)
 
-The results for unpaid reviews are as follows:
+The results for unpaid reviews are as follows:<br>
 ![unpaid](images/unpaid_reviews.png)
 
 ### How many Vine reviews and non-Vine reviews were there?
